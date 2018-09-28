@@ -118,8 +118,8 @@ If you want to do any plotting, you will have to do use the graphical emacs clie
 ```
 
 Then, you have two options; either:
-# Connect to an existing server - use `M-x ein:notebooklist-login` and then enter the _token_ emitted from the server when you started it. Then run `M-x ein:notebooklist-open`
-# Run your own server with `M-x ein:jupyter-server-start` (then wait as this will also do a notebooklist)
+1. Connect to an existing server - use `M-x ein:notebooklist-login` and then enter the _token_ emitted from the server when you started it. Then run `M-x ein:notebooklist-open`
+1. Run your own server with `M-x ein:jupyter-server-start` (then wait as this will also do a notebooklist)
 
 Matplot Example
 ===============
