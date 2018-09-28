@@ -1,4 +1,4 @@
-| Note: Instructions assume you are using Mac OSX.
+> Note: Instructions assume you are using Mac OSX.
 
 Installation
 ============
@@ -67,7 +67,7 @@ workon jupyter
 jupyter console
 ```
 
-| Note that this will start its own Jupyter server.
+> Note that this will start its own Jupyter server.
 
 EIN and Emacs
 -------------
